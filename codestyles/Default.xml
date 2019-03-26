@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <ClojureCodeStyleSettings>{
-  :cursive.formatting/align-binding-forms true
+  :cursive.formatting/align-maps false
   :zeebe.api/workflow-cmd-&gt; :only-indent
 }</ClojureCodeStyleSettings>
 </code_scheme>
