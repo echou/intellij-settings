@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://activiti.org/bpmn" location="$MAVEN_REPOSITORY$/org/activiti/activiti-bpmn-converter/5.16.3/activiti-bpmn-converter-5.16.3.jar!/org/activiti/impl/bpmn/parser/activiti-bpmn-extensions-5.15.xsd" />
+  </component>
+</application>

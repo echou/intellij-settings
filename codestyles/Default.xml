@@ -1,0 +1,22 @@
+<code_scheme name="Default">
+  <ClojureCodeStyleSettings>{
+  :api-gateway.http/run-in-eventloop :only-indent
+  :compojure.core/context :only-indent
+  :cursive.formatting/align-binding-forms true
+  :erp-boot.tracer/binding-scope :only-indent
+  :erp-boot.tracer/enter-scope :only-indent
+  :erp-boot.tracer/in-scope :only-indent
+  :erp-boot.tracer/with-scope :only-indent
+  :erp-com.core/webapp-context :only-indent
+  :erp-com.core/with-tx :only-indent
+  :erp-com.ctx/if-routes :only-indent
+  :erp-com.dao/with :only-indent
+  :erp-com.tracer/with-scope :only-indent
+  :gramel.next.core/with :only-indent
+  :gramel.next.tracer/with-scope :only-indent
+  :lonocloud.synthread.macros/&gt;each :only-indent
+  :midje.sweet/fact :only-indent
+  :netty-in-action.netty/pipeline-add-last :only-indent
+  :rhino-web.board/agent-call :only-indent
+}</ClojureCodeStyleSettings>
+</code_scheme>
